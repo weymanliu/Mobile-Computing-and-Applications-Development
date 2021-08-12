@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CU Blossom</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="flower">flower</string>
+    <string name="name_text">Name Text</string>
+    <string name="location_text">Location Text</string>
+    <string name="like_score">Like Score</string>
+</resources>
